@@ -22,19 +22,23 @@ To realise programm logging.
 To compile and run the server and client using the command line:
 
 ```bash
-# Compile the Java files
-javac Server.java Client.java
+# Compile the Java file
+javac Main.java
 
-# Run the server (example with port 8080)
-java Server 8080
+# Run the server (example with argument ana without)
+java Main file.txt
+java Main
 
-# Run the client (example with server IP 127.0.0.1 and file to send)
-java Client.java 127.0.0.1 8080 file.txt
+# Input the commands and their parameters (example for run with argument)
+DEFINE a 4
+PUSH a
+SQRT
+PRINT
 ```
 
 ## :page_with_curl: License
 
    - Badges: Links have been updated to point to the GitHub repository for the Java project.
-   - Bash Example: Provides command examples for compiling and running the client and server programs in Java.
-   - Code: Example of Java code implementing .
+   - Bash Example: Provides command examples for compiling and running the program in Java.
+   - Code: Example of Java code implementing basic functional of stack calculator.
 To configure the badges, replace your-username/stack-calculator-java with the actual parameters of your repository.
