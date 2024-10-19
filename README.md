@@ -19,7 +19,7 @@ To realise programm logging.
 
 ## :paperclip: Bash Example
 
-To compile and run the server and client using the command line:
+To compile, run and work the programm using the command line:
 
 ```bash
 # Compile the Java file
