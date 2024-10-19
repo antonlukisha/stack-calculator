@@ -1,7 +1,7 @@
 # Stack Calculator
 
 
-[About](#dart-about) | [Description](#:pencil2:-description) | [Algorithm](#:triangular_ruler:-algorithm) | [Bash Example](#:paperclip:-bash-example) | [License](#:page_with_curl:-license)
+[About](#dart-about) | [Description](#pencil2-description) | [Algorithm](#triangular_ruler-algorithm) | [Bash Example](#paperclip-bash-example) | [License](#page_with_curl-license)
 
 
 ## :dart: About
